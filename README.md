@@ -2,17 +2,17 @@
 
 <p align="center">
 🎓 B.Tech CSE student at Seemanta Engineering College, Odisha (2023–2027) <br/>
-🧠 Learning Java with DSA, Web, and DevSecOps | Targeting SDE roles abroad <br/>
-🤖 Ex-AI Intern at EDU-VERSITY | Built predictive models with Python, NumPy, Pandas <br/>
-📊 Worked on Breast Cancer Prediction ML project (Logistic Regression & Decision Trees) <br/>
-🏋️ Gym | 📚 Tech Blogs | 💻 Dev Tool Experiments | 💡 Problem Solver
+💻 Java + DSA learner | Focused on DevSecOps & Core CS for SDE roles abroad <br/>
+🤖 AI Intern @ EDU-VERSITY (Nov 2024 – Jan 2025) | Built ML models using Python, NumPy, Pandas <br/>
+📊 Built Breast Cancer Prediction project (Logistic Regression + Decision Trees) <br/>
+🧠 Passionate about problem solving, open source, gym, tech blogs & dev tools exploration
 </p>
 
 ---
 
 ### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-C%2B-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
+![Java Circle](https://img.shields.io/badge/Java-Circle-orange?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,23 +36,23 @@
 
 ---
 
-### 🌟 Contributions
+### 📈 Contributions
 
-- ⭐ Total Stars Earned: `8`
-- 🟡 Total Commits (2025): `67`
-- 🔵 Total PRs: `0`
-- 🟠 Total Issues: `0`
-- 🟣 Contributed to (last year): `1`
-- 🧮 GitHub Rank: `C+` _(Improving!)_
+- ⭐ **Total Stars Earned:** `8`
+- 🟡 **Total Commits (2025):** `67`
+- 🔵 **Total PRs:** `0`
+- 🔴 **Total Issues:** `0`
+- 🟣 **Contributed to (last year):** `1`
+- 🧮 **GitHub Rank:** `C+` *(improving!)*
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ck--barik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ck-barik)
-[![GitHub](https://img.shields.io/badge/GitHub-Secret371-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Secret371)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ck--barik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ck-barik)  
+[![GitHub](https://img.shields.io/badge/GitHub-Secret371-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Secret371)  
 [![Email](https://img.shields.io/badge/Email-chandrakantabarik66@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrakantabarik66@gmail.com)
 
 ---
 
-> 💡 _"Consistency + Curiosity = Mastery"_
+> 💡 _“Consistency + Curiosity = Mastery”_
