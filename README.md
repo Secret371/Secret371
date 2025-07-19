@@ -1,39 +1,38 @@
-<h1 align="center">Hi, I'm [Your Name] ✨</h1>
+<h1 align="center">Hi, I'm Chandrakanta Barik ✨</h1>
 
 <p align="center">
-🎓 Computer science and design student at [Your College/University] <br/>
-🖥️ I create themed desktop/web apps to stay consistent <br/>
-🎥 I make videos about code and design on <a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a> <br/>
-📦 Download my projects/resources/tutorials on <a href="https://gumroad.com/yourpage" target="_blank">Gumroad</a> <br/>
-🌱 Join the <a href="https://star-lab.dev" target="_blank">Star-Lab Community</a> to learn and connect with other coders!
+🎓 B.Tech CSE student at Seemanta Engineering College, Odisha (2023–2027) <br/>
+🧠 Learning Java with DSA, Web, and DevSecOps | Targeting SDE roles abroad <br/>
+🤖 Ex-AI Intern at EDU-VERSITY | Built predictive models with Python, NumPy, Pandas <br/>
+📊 Worked on Breast Cancer Prediction ML project (Logistic Regression & Decision Trees) <br/>
+🏋️ Gym | 📚 Tech Blogs | 💻 Dev Tool Experiments | 💡 Problem Solver
 </p>
 
 ---
 
 ### 🧰 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-C%2B-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Secret371&layout=compact&theme=tokyonight)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Secret371&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
@@ -44,11 +43,16 @@
 - 🔵 Total PRs: `0`
 - 🟠 Total Issues: `0`
 - 🟣 Contributed to (last year): `1`
+- 🧮 GitHub Rank: `C+` _(Improving!)_
 
 ---
 
 ### 📫 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Visit-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)](https://gumroad.com/yourpage)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ck--barik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ck-barik)
+[![GitHub](https://img.shields.io/badge/GitHub-Secret371-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Secret371)
+[![Email](https://img.shields.io/badge/Email-chandrakantabarik66@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrakantabarik66@gmail.com)
 
+---
+
+> 💡 _"Consistency + Curiosity = Mastery"_
