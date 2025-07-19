@@ -38,6 +38,14 @@
 
 ---
 
+## 🔘 Language Highlight
+
+<p align="center">
+  <img src="https://github.com/Chandrakant66/Chandrakant66/blob/main/java-badge.png" alt="Java Circular Badge" width="100"/>
+</p>
+
+---
+
 ### 📈 Contributions
 
 - ⭐ **Total Stars Earned:** `8`
