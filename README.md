@@ -41,7 +41,7 @@
 ## 🔘 Language Highlight
 
 <p align="center">
-  <img src="https://github.com/Chandrakant66/Chandrakant66/blob/main/java-badge.png" alt="Java Circular Badge" width="100"/>
+ <img src="https://i.imgur.com/abcXYZ.png" width="80" alt="Java Circular Badge"/>
 </p>
 
 ---
