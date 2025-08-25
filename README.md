@@ -1,29 +1,31 @@
+<!-- Premium GitHub Profile README for Chandrakanta Barik -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chandrakanta+Barik+✨;B.Tech+CSE+Student+%7C+Java+DSA;Future+SDE+%7C+DevOps+Enthusiast;Always+Learning+%26+Building">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Chandrakanta+Barik+✨;B.Tech+CSE+%40+Seemanta+Engg+College;Java+%7C+DSA+%7C+DevOps+Enthusiast;Future+SDE+%7C+Always+Learning+%26+Building">
 </h1>
 
 ---
 
 ## 🚀 About Me  
-🎓 B.Tech CSE @ Seemanta Engineering College (2023–2027)  
-💡 Java, DSA & DevSecOps enthusiast, targeting SDE roles abroad  
-🧠 Ex-AI Intern @ EDU-VERSITY | Built ML models with Python, NumPy, Pandas  
-🛠 Worked on **Breast Cancer Prediction ML project** (Logistic Regression & Decision Trees)  
-🔥 Loves: Problem Solving, Tech Blogs, Dev Tool Experiments, Gym  
+- 🎓 B.Tech CSE @ Seemanta Engineering College (2023–2027)  
+- 💡 Java, DSA & DevSecOps enthusiast | Targeting SDE roles abroad  
+- 🧠 Ex-AI Intern @ EDU-VERSITY | ML Models with Python, NumPy, Pandas  
+- 🛠 Worked on **Breast Cancer Prediction ML Project** (Logistic Regression & Decision Trees)  
+- 🔥 Loves: Problem Solving, Tech Blogs, Dev Tool Experiments, Gym  
 
 ---
 
 ## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,python,spring,git,github,linux,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,spring,git,github,linux,mysql&perline=5" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Secret371&show_icons=true&theme=radical&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Secret371&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Secret371&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Secret371&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
@@ -32,10 +34,15 @@
 
 ---
 
-## 📂 Featured Projects  
-- 🔹 **[Trading Advisor Bot](#)** → Candlestick pattern analysis + Telegram/ Insta notifications  
-- 🔹 **[Stock Alert Dashboard](#)** → Live Stock Monitoring with Flask + Notifications  
-- 🔹 **[Breast Cancer ML Project](#)** → Predictive model with Python  
+## 🌟 Featured Projects  
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Secret371&repo=TradingAdvisorBot&theme=tokyonight&hide_border=true" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Secret371&repo=StockAlertDashboard&theme=tokyonight&hide_border=true" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Secret371&repo=BreastCancerML&theme=tokyonight&hide_border=true" /></a>
+</p>
 
 ---
 
@@ -47,5 +54,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+</p>
 
 <p align="center"><i>✨ Consistency + Curiosity = Mastery ✨</i></p>
